@@ -1,5 +1,4 @@
-# great-automl-resources
-Great AutoML Resources
+# Great AutoML Resources
 
 
 https://www.paperswithcode.com/task/automl/latest
